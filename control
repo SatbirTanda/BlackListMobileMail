@@ -1,0 +1,9 @@
+Package: com.satbirtanda.mailmarker
+Name: MailMarker
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: black list a certain email from notifying you of their mail
+Maintainer: Satbir Tanda
+Author: Satbir Tanda
+Section: Tweaks
